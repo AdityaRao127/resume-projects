@@ -30,7 +30,7 @@ Welcome to my collection of projects that demonstrate my technical skill set, cr
   - Advanced logic for puzzle generation
   - Exception handling for a seamless user experience
 
-_**Repository Link:** [View Code](#)_
+_**Code:** [Browse Code](./Path/To/Mastermind/Folder)_
 
 ---
 
@@ -38,15 +38,14 @@ _**Repository Link:** [View Code](#)_
 **Name & Description:** 
 _Insert a succinct summary that covers the project's goal, key achievements, and any unique challenges you tackled._
 
-_**Repository Link:** [View Code](#)_
-
+_**Code:** [Browse Code](./Path/To/Mastermind/Folder)_
 ---
 
 ### 📌 Project 3
 **Name & Description:** 
 _Shortly describe what this project is about, emphasizing any distinctive features or techniques you employed._
 
-_**Repository Link:** [View Code](#)_
+_**Code:** [Browse Code](./Path/To/Mastermind/Folder)_
 
 ---
 
@@ -54,7 +53,7 @@ _**Repository Link:** [View Code](#)_
 **Name & Description:** 
 _Provide a clear and concise explanation of this project, including the value it adds or the problem it solves._
 
-_**Repository Link:** [View Code](#)_
+_**Code:** [Browse Code](./Path/To/Mastermind/Folder)_
 
 ---
 
@@ -62,7 +61,7 @@ _**Repository Link:** [View Code](#)_
 **Name & Description:** 
 _Sum up this project, noting down how it stands out or the particular skills you developed while working on it._
 
-_**Repository Link:** [View Code](#)_
+_**Code:** [Browse Code](./Path/To/Mastermind/Folder)_
 
 ---
 
