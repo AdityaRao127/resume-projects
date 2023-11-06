@@ -10,7 +10,7 @@ Welcome to my collection of projects that demonstrate my technical skill set, cr
 ---
 
 ## 📂 Repository Contents
-- [Mastermind Game in Java](#mastermind-game-in-java)
+- [Mastermind Game in Java](#Mastermind%20Game/)
 - [Project 2](#project-2)
 - [Project 3](#project-3)
 - [Project 4](#project-4)
