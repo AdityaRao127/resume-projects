@@ -30,7 +30,7 @@ Welcome to my collection of projects that demonstrate my technical skill set, cr
   - Advanced logic for puzzle generation
   - Exception handling for a seamless user experience
 
-_**Code:** [Browse Code](./Path/To/Mastermind%20Game/Mastermind.java)_
+_**Code:** [Browse Code](Mastermind%20Game/Mastermind.java)_
 
 ---
 
