@@ -38,7 +38,7 @@ _**Code:** [Browse Code](Mastermind%20Game/Mastermind.java)_
 **Name & Description:** 
 _Insert a succinct summary that covers the project's goal, key achievements, and any unique challenges you tackled._
 
-_**Code:** [Browse Code](Song%20Database/src/musicpack/Player.java)_
+_**Code:** [Browse Code](Song%20Database/src/musicpack/Player.java)
 ---
 
 ### 📌 Project 3
