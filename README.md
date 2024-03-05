@@ -40,29 +40,6 @@ _**Code:** [Browse Code](Mastermind%20Game/Mastermind.java)_
 _**Code:** [Browse Code](Song%20Database/src/musicpack/Player.java)
 ---
 
-### 📌 Project 3
-**Name & Description:** 
-_Shortly describe what this project is about, emphasizing any distinctive features or techniques you employed._
-
-_**Code:** [Browse Code](./Path/To/Mastermind/Folder)_
-
----
-
-### 📌 Project 4
-**Name & Description:** 
-_Provide a clear and concise explanation of this project, including the value it adds or the problem it solves._
-
-_**Code:** [Browse Code](./Path/To/Mastermind/Folder)_
-
----
-
-### 📌 Project 5
-**Name & Description:** 
-_Sum up this project, noting down how it stands out or the particular skills you developed while working on it._
-
-_**Code:** [Browse Code](./Path/To/Mastermind/Folder)_
-
----
 
 ## 💻 Technologies Used
 - Python, Java
