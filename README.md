@@ -29,13 +29,11 @@ Welcome to my collection of projects that demonstrate my technical skill set, cr
 
 _**Code:** [Browse Code](Mastermind%20Game/Mastermind.java)_
 
----
 
 ### 📌 Song Database
 **Description: Utilizing MySQL Workbench, SQL, and Java programming to create a database of songs that supports CRUD operations.** 
 
 _**Code:** [Browse Code](Song%20Database/src/musicpack/Player.java)
----
 
 
 ## 💻 Technologies Used
