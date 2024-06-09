@@ -12,9 +12,6 @@ Welcome to my collection of projects that demonstrate my technical skill set, cr
 ## 📂 Repository Contents
 - [Mastermind Game in Java](#Mastermind%20Game/)
 - [Project 2](#Song%20Database/)
-- [Project 3](#project-3)
-- [Project 4](#project-4)
-- [Project 5](#project-5)
 - [Technologies](#technologies-used)
 - [Connect With Me](#connect-with-me)
 
@@ -35,7 +32,7 @@ _**Code:** [Browse Code](Mastermind%20Game/Mastermind.java)_
 ---
 
 ### 📌 Song Database
-**Name & Description: Utilizing MySQL Workbench, SQL, and Java programming to create a database of songs that supports CRUD operations.** 
+**Description: Utilizing MySQL Workbench, SQL, and Java programming to create a database of songs that supports CRUD operations.** 
 
 _**Code:** [Browse Code](Song%20Database/src/musicpack/Player.java)
 ---
